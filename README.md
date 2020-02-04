@@ -1,2 +1,2 @@
 # Traceroute
-Traceroute program to trace route using UDP packets
+Traceroute program to trace route of an IP address using ICMP packets.
